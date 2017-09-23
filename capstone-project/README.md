@@ -7,5 +7,5 @@ In this culminating project, you will build a big data ecosystem using tools and
 2. [Data model](./Catchthe-Pink-Flamingo-Data-Model.pdf)
 
 ## Final Project Design
-1. [Presentation slides](./Capstone Project-PowerPoint Slides.pdf)
-2. [Technical appendix](./Capstone Project-Technical Appendix.pdf)
+1. [Presentation slides](./Capstone-Project-PowerPoint-Slides.pdf)
+2. [Technical appendix](./Capstone-Project-Technical-Appendix.pdf)
